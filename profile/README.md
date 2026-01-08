@@ -15,9 +15,9 @@ La plataforma permite a los usuarios registrarse, crear y gestionar equipos Pok�
 - Basado exclusivamente en Pokémon de la 3ª generación (FireRed / LeafGreen)
 
 ## 👨‍💻 Autores del proyecto
-- Jorge González Jiménez
-- Cristina Cabello Rubio
-- Jesús Felipe Fuentes Trigueros
+- Jorge González Jiménez @jor2511
+- Cristina Cabello Rubio @cristycr
+- Jesús Felipe Fuentes Trigueros @jffuentes
 
 📚 I.E.S. Miguel Romero Esteo
 📆 Curso 2024 / 2026
@@ -54,4 +54,5 @@ Este proyecto busca ofrecer una alternativa más moderna, completa y escalable a
 - Administración de sistemas
 - Bases de datos
 - Redes y alta disponibilidad
+
 Todo ello alineado con los contenidos y competencias del ciclo formativo de ASIR.
